@@ -26,6 +26,10 @@ Google Query Sheet
 
 ```
 
-![](DSC_0983.jpg)
+![]()
 
-![]
+|NAME|AGE|DATE OF BIRTH|
+|------------|----|-----------|
+|Paul Joshua|19|11th December|
+|Great Nifemi|17|1st March|
+|Halleluyah Seyi|28|10th May|
