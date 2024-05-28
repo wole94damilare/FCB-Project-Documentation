@@ -28,4 +28,4 @@ Google Query Sheet
 
 ![](DSC_0983.jpg)
 
-![]jpg)
+![]
