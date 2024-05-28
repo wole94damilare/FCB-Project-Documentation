@@ -26,7 +26,7 @@ Google Query Sheet
 
 ```
 
-![](
+![](Vicoj 4.jpg)
 
 |NAME|AGE|DATE OF BIRTH|
 |------------|----|-----------|
