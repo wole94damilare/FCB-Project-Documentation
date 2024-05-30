@@ -26,7 +26,7 @@ Google Query Sheet
 
 ```
 
-![](Vicoj 4.jpg)
+![](000662-Makeup-artist-logo-template.jpg)
 
 |NAME|AGE|DATE OF BIRTH|
 |------------|----|-----------|
