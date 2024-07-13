@@ -26,7 +26,8 @@ Google Query Sheet
 
 ```
 
-![](000662-Makeup-artist-logo-template.jpg)
+![](E2.jpg)
+![](E3.jpg)
 
 |NAME|AGE|DATE OF BIRTH|
 |------------|----|-----------|
